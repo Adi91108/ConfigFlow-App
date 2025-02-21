@@ -47,7 +47,7 @@ npm start
 
 # 📸 Preview
 
-![Alt text]()
+![Screenshot of Project](https://github.com/Adi91108/ConfigFlow-App/blob/main/src/components/Assets/Project%20momentum.png)
 
 [Project momentum](https://github.com/user-attachments/assets/2db54612-30cc-4687-b359-9d38ca195716)
 
