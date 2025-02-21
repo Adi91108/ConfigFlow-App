@@ -1,8 +1,8 @@
-Configure Flow UI Clone
+# Configure Flow UI Clone
 
 This project is a UI implementation similar to the "Configure Flow" feature, built using Create React App. It includes a dynamic visual representation of a process flow, styled with Tailwind CSS, and enhanced with React Icons for better iconography. The UI ensures a pixel-perfect design while rendering data from a mock API.
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 
 React.js (Create React App)
 
@@ -12,7 +12,7 @@ React Icons (Icons)
 
 Mock API (Dynamic Data Rendering)
 
-🎯 Features
+# 🎯 Features
 
 Flow Visual Representation: A structured UI showcasing process flow.
 
@@ -24,13 +24,13 @@ Pixel-Perfect UI Design: Focused on precise spacing, alignment, and styling.
 
 Dynamic Data Rendering: API-driven content updates dynamically within the UI.
 
-🛠️ Challenges Faced
+# 🛠️ Challenges Faced
 
 Rendering Flow Arrows Inside the Grid: Positioning the arrows correctly within the structured layout was tricky. Ensuring proper alignment required fine-tuning CSS properties and utilizing flex/grid layouts efficiently.
 
 Ensuring Smooth UI Interaction: Keeping the UI responsive and ensuring dynamic rendering without layout shifts.
 
-📌 Installation & Setup
+# 📌 Installation & Setup
 
 Clone the repository:
 
@@ -45,10 +45,10 @@ Start the development server:
 
 npm start
 
-📸 Preview
+# 📸 Preview
 
-(Screenshots or a short demo video can be added here.)
+[Project momentum](https://github.com/user-attachments/assets/2db54612-30cc-4687-b359-9d38ca195716)
 
-📢 Feedback & Contribution
+# 📢 Feedback & Contribution
 
 Feel free to contribute or suggest improvements! Open an issue or create a pull request if you find bugs or enhancements.
